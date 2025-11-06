@@ -1,23 +1,24 @@
 ---
-author: ' '
 documentclass: article
-header-includes:
-- \usepackage{styles/mystyle}
-- \newcommand{\gruppo}{MEduLab}
-- "\\newcommand{\\authorlist}{\\begin{minipage}{0.3\\textwidth}\n        \\centering\n\
-  \        \\textbf{Pietro Barale}\\\\\\textit{operatore}\\\\\\textit{diplomato in\
-  \ Musica Applicata alle immagini, Conservatorio di Santa Cecilia, Roma}\n      \\\
-  end{minipage}\\hfill\\begin{minipage}{0.3\\textwidth}\n        \\centering\n   \
-  \     \\textbf{Giulio Romano De Mattia}\\\\\\textit{operatore}\\\\\\textit{ diplomato\
-  \ in Musica Elettronica, Conservatorio di Santa Cecilia, Roma}\n      \\end{minipage}\\\
-  hfill\\begin{minipage}{0.3\\textwidth}\n        \\centering\n        \\textbf{Marco\
-  \ Di Gasbarro}\\\\\\textit{coordinatore}\\\\\\textit{dottorando in Composizione\
-  \ e Performance Musicale, Conservatorio di Ferrara}\n      \\end{minipage}}"
-subtitle: Casa dei Bambini *il Girasole* - 2025/2026
-title: Titolo del progetto
+gruppo: A cura di MEduLab
+maestri:
+- nome: Pietro Barale
+  qualifica: diplomato in Musica Applicata alle immagini, Conservatorio di Santa Cecilia,
+    Roma
+  ruolo: operatore
+- nome: Giulio Romano De Mattia
+  qualifica: ' diplomato in Musica Elettronica, Conservatorio di Santa Cecilia, Roma'
+  ruolo: operatore
+- nome: Marco Di Gasbarro
+  qualifica: dottorando in Composizione e Performance Musicale, Conservatorio di Ferrara
+  ruolo: coordinatore
+maestri-width: '0.3'
+subtitle: Proposta di laboratorio extracurriculare per la Scuola dell'Infanzia Salvatore
+  Quasimodo - 2025/2026
+title: Piccoli esploratori sonori
 ---
 
-Per il quarto anno consecutivo vi proponiamo il laboratorio di musica d'insieme per l'infanzia, un corso extracurriculare pomeridiano aperto alle bambine e ai bambini che frequentano la Casa dei Bambini *il Girasole*. Ogni anno il laboratorio è stato guidato da musicisti formati nella pratica della musica contemporanea, elettroacustica e popolare, che hanno condiviso con i bambini un'atmosfera leggera ma densa di attività.
+Per il quarto anno consecutivo vi proponiamo il laboratorio di musica d'insieme per l'infanzia, un corso extracurriculare pomeridiano aperto alle bambine e ai bambini che frequentano la Proposta di laboratorio extracurriculare per la Scuola dell'Infanzia Salvatore Quasimodo. Ogni anno il laboratorio è stato guidato da musicisti formati nella pratica della musica contemporanea, elettroacustica e popolare, che hanno condiviso con i bambini un'atmosfera leggera ma densa di attività.
 Nella progettazione di esperienze di apprendimento significative cerchiamo l'innesco della scintilla dell'interesse dei bambini e puntiamo a realizzare alcune istanze della musica di ricerca del XX e XXI secolo su cui lavoriamo quotidianamente, in collaborazione con alcuni importanti Conservatori italiani.
 
 \vspace{.7cm}
@@ -39,7 +40,7 @@ Nella progettazione di esperienze di apprendimento significative cerchiamo l'inn
 
 ## CONTINUITÀ, FINALITÀ E OBIETTIVI
 
-Il corso dell'anno precedente ha evidenziato risultati significativi riguardo il coinvolgimento dei bambini nella costruzione di esperienze musicali collettive. La frequenza media per ogni incontro è stata di 6-9 bambini partecipanti. Il riscontro per noi più prezioso è arrivato dalle famiglie, che ci hanno riportato come i bambini hanno riproposto spontaneamente a casa le attività svolte: esplorare le sonorità dell' ambiente circostante, vocalizzare i suoni delle percussioni e trasformare oggetti quotidiani in strumenti musicali ad esempio sono chiari indicatori dell'interiorizzazione dell'esperienza vissuta.
+Il corso dell'anno precedente ha evidenziato risultati significativi riguardo il coinvolgimento dei bambini nella costruzione di esperienze musicali collettive. La frequenza media per ogni incontro è stata di 8-12 partecipanti. Il riscontro per noi più prezioso è arrivato dalle famiglie, che ci hanno riportato come i bambini hanno riproposto spontaneamente a casa le attività svolte: esplorare le sonorità dell' ambiente circostante, vocalizzare i suoni delle percussioni e trasformare oggetti quotidiani in strumenti musicali ad esempio sono chiari indicatori dell'interiorizzazione dell'esperienza vissuta.
 
 Quest'anno intendiamo consolidare l'approccio intrapreso, personalizzando il metodo progettato per adattarlo alle specificità di ogni bambino, concentrandosi sulle diverse modalità di apprendimento e supportando chi incontra particolari sfide nello svolgimento delle attività musicali.     
 
@@ -77,42 +78,9 @@ La filosofia del progetto prevede l'utilizzo creativo di materiali semplici e ac
 
 
 
-## ASPETTI ORGANIZZATIVI
+---
 
-Il laboratorio si svolge ogni mercoledì dal 01/10/2025 al 27/05/2026, per un totale di **33 incontri** (media di 4.1 incontri al mese).
-Ogni incontro dura circa un'ora e mezza: i bambini ci vengono affidati direttamente dalle educatrici entro le 16:30 e vengono riconsegnati alle famiglie tra le 17:45 e le 17:55. Gli ultimi minuti fino alle 18 servono agli organizzatori per lasciare ambienti puliti e adatti all'attività scolastica del giorno successivo, quindi si raccomanda puntualità per il ritiro dei bambini.
-
-Ogni incontro si articola nel modo seguente:  
-- 16:30 inizio attività musicale   
-- 17:15 merenda e svago   
-- 17:40 preparazione per l'uscita   
-
-**Incontri mensili:**
-
-| Ottobre | Novembre | Dicembre | Gennaio | Febbraio | Marzo | Aprile | Maggio |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **5** | **4** | **3** | **4** | **4** | **4** | **5** | **4** |
-
-La programmazione tiene conto delle pause per le vacanze di Natale.
-
-**Costi:**
-
-- Quota bimestrale: 120€ per bambino    
-<!-- - Pagamento: all'inizio di ogni bimestre   -->
-- **Costo totale del corso: 480€** (4 bimestri)    
-
-<!---
-**Calendario pagamenti:**
-| Periodo | Importo | Scadenza |
-| :--- | ---: | :---: |
-| Ottobre-novembre | 120€ | inizio ottobre |
-| Dicembre-gennaio | 120€ | inizio dicembre |
-| Febbraio-marzo | 120€ | inizio febbraio |
-| Aprile-maggio | 120€ | inizio aprile |
-
--->
-*Il mese di giugno si decide per tempo in base alle richieste di partecipazione*
-
+La programmazione dettagliata, i costi e le modalità organizzative verranno concordati direttamente con la scuola in base alle vostre specifiche esigenze e disponibilità.
 
 
 
