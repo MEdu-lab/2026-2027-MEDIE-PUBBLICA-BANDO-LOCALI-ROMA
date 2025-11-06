@@ -11,52 +11,23 @@ def generate_yaml_header(config):
     maestri = config.get('maestri', [])
     progetto = config.get('progetto', {})
     
-    # Costruisci gli autori con minipage
+    # Calcola solo la larghezza (logica minima)
     if len(maestri) <= 2:
         width = "0.45"
     else:
         width = "0.3"
     
-    author_boxes = []
-    for maestro in maestri:
-        # Costruisci il contenuto della minipage con nome, ruolo e qualifica
-        nome = maestro['nome']
-        ruolo = maestro.get('ruolo', '')
-        qualifica = maestro.get('qualifica', '')
-        
-        # Costruisci il testo con le righe separate
-        content_lines = [f"\\textbf{{{nome}}}"]
-        
-        if ruolo:
-            content_lines.append(f"\\textit{{{ruolo}}}")
-        
-        if qualifica:
-            content_lines.append(f"\\textit{{{qualifica}}}")
-        
-        content = "\\\\".join(content_lines)
-        
-        box = f"""\\begin{{minipage}}{{{width}\\textwidth}}
-        \\centering
-        {content}
-      \\end{{minipage}}"""
-        author_boxes.append(box)
-    
-    authorlist = "\\hfill".join(author_boxes)
-    
-    # YAML PULITO!
+    # YAML con dati strutturati + comandi essenziali
     metadata = {
         'title': progetto.get('titolo', ''),
         'subtitle': f"{progetto.get('sottotitolo', '')} - {progetto.get('anno_scolastico', '')}",
         'documentclass': 'article',
-        'author': ' ',
-        'header-includes': [
-            "\\usepackage{styles/mystyle}",
-            f"\\newcommand{{\\gruppo}}{{{progetto.get('gruppo', '')}}}",
-            f"\\newcommand{{\\authorlist}}{{{authorlist}}}"
-        ]
+        'gruppo': progetto.get('gruppo', ''),
+        'maestri': maestri,  # Lista completa per il template
+        'maestri-width': width # Calcolo riusabile
     }
     
-    return "---\n" + yaml.dump(metadata) + "---\n\n"
+    return "---\n" + yaml.dump(metadata, allow_unicode=True) + "---\n\n"
     
 def get_day_of_week(day_name: str) -> int:
     days = {
