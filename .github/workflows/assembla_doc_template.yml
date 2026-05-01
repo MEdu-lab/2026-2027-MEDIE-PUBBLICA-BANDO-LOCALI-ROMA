@@ -23,13 +23,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/kjarosh/latex:2025.1-basic
+      image: ghcr.io/dmgiulioromano/pandoc-latex-docker-ubuntu:2026.1-basic
 
     steps:
     - name: Install dependencies (missing LaTeX packages )
       run: |
-        apk add --no-cache git python3 py3-pip bash pandoc tar
-        pip install --break-system-packages pyyaml python-liquid
+        apt-get update && apt-get install -y git python3-pip
+        pip install pyyaml python-liquid
         tlmgr install preprint xcolor
         
     - name: Checkout repository
