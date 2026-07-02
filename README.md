@@ -1,6 +1,6 @@
 ---
 documentclass: article
-gruppo: A cura di MEduLab
+gruppo: MEduLab
 maestri:
 - nome: Pietro Barale
   qualifica: diplomato in Musica Applicata alle immagini, Conservatorio di Santa Cecilia,
@@ -13,18 +13,17 @@ maestri:
   qualifica: dottorando in Composizione e Performance Musicale, Conservatorio di Ferrara
   ruolo: coordinatore
 maestri-width: '0.3'
-subtitle: Proposta di laboratorio extracurriculare per la Scuola dell'Infanzia Salvatore
-  Quasimodo - 2025/2026
-title: Piccoli esploratori sonori
+subtitle: Lezioni di strumento e musica d'insieme per la scuola secondaria di primo
+  grado - 2026/2027
+title: Fare Orchestra
 ---
 
-Per il quarto anno consecutivo vi proponiamo il laboratorio di musica d'insieme per l'infanzia, un corso extracurriculare pomeridiano aperto alle bambine e ai bambini che frequentano la Proposta di laboratorio extracurriculare per la Scuola dell'Infanzia Salvatore Quasimodo. Ogni anno il laboratorio è stato guidato da musicisti formati nella pratica della musica contemporanea, elettroacustica e popolare, che hanno condiviso con i bambini un'atmosfera leggera ma densa di attività.
-Nella progettazione di esperienze di apprendimento significative cerchiamo l'innesco della scintilla dell'interesse dei bambini e puntiamo a realizzare alcune istanze della musica di ricerca del XX e XXI secolo su cui lavoriamo quotidianamente, in collaborazione con alcuni importanti Conservatori italiani.
+In risposta all'Avviso pubblico di Roma Capitale per l'utilizzo dei locali scolastici in orario extrascolastico, MEduLab propone di aprire, nei locali di una scuola pubblica del territorio, uno spazio pomeridiano dedicato alla pratica musicale per le ragazze e i ragazzi della scuola secondaria di primo grado. Il progetto intreccia due percorsi complementari: le **lezioni individuali di strumento**, in cui ciascuno costruisce il proprio rapporto con lo strumento secondo i propri tempi, e la **musica d'insieme**, in cui le competenze individuali confluiscono in una **mini orchestra con coro** che lavora durante tutto l'anno alla realizzazione di una **performance finale** aperta alla scuola, alle famiglie e al quartiere.
+Il gruppo di lavoro è formato da musicisti attivi nella pratica della musica contemporanea, elettroacustica e popolare, con un'esperienza pluriennale di laboratori musicali nelle scuole pubbliche romane dell'infanzia e primarie. Con questa proposta vogliamo dare continuità a quel percorso nella fascia d'età successiva, restituendo alla scuola — anche fuori dall'orario delle lezioni — il suo ruolo di presidio culturale e sociale del territorio.
 
 \vspace{.7cm}
 
->*il ritmo si può solo liberare, sprigionare. Ritmo non è un'entità astratta, ritmo è la vita stessa. Ritmo agisce e provoca, è la forza che unisce linguaggio, musica e movimento.* (Carl Orff)
-
+>*L'orchestra e il coro sono molto più che strutture artistiche: sono esempi e scuole di vita sociale.* (José Antonio Abreu)
 
 <!-- **Maestri:** 
 
@@ -40,47 +39,48 @@ Nella progettazione di esperienze di apprendimento significative cerchiamo l'inn
 
 ## CONTINUITÀ, FINALITÀ E OBIETTIVI
 
-Il corso dell'anno precedente ha evidenziato risultati significativi riguardo il coinvolgimento dei bambini nella costruzione di esperienze musicali collettive. La frequenza media per ogni incontro è stata di 8-12 partecipanti. Il riscontro per noi più prezioso è arrivato dalle famiglie, che ci hanno riportato come i bambini hanno riproposto spontaneamente a casa le attività svolte: esplorare le sonorità dell' ambiente circostante, vocalizzare i suoni delle percussioni e trasformare oggetti quotidiani in strumenti musicali ad esempio sono chiari indicatori dell'interiorizzazione dell'esperienza vissuta.
+Nei nostri laboratori nelle scuole dell'infanzia e primarie abbiamo osservato come l'esperienza musicale condivisa generi legami, attenzione reciproca e senso di appartenenza. La scuola secondaria di primo grado è il passaggio in cui queste conquiste rischiano di disperdersi: è l'età in cui molti ragazzi si allontanano dalle attività collettive e in cui, al tempo stesso, il desiderio di esprimersi e di essere riconosciuti dal gruppo è più forte. Il progetto si fonda sul principio che il valore dell'esperienza musicale non si esaurisce nel risultato del concerto, ma si manifesta nel **processo educativo** vissuto: la performance finale non è un esame, bensì il momento in cui il gruppo restituisce alla propria comunità il percorso fatto insieme.
 
-Quest'anno intendiamo consolidare l'approccio intrapreso, personalizzando il metodo progettato per adattarlo alle specificità di ogni bambino, concentrandosi sulle diverse modalità di apprendimento e supportando chi incontra particolari sfide nello svolgimento delle attività musicali.     
-
-<!--- meglio dirlo a voce durante la riunione
-Il progetto si fonda sul principio che l'apprendimento musicale nell'infanzia non produce necessariamente un risultato tangibile nel "saggio di fine anno", ma manifesta il suo valore nel **processo educativo** vissuto, che si concretizza nella coltivazione della capacità di ognuno di **inventare e ri-costruire mondi sonori** attraverso il gioco e la relazione con i maestri e i compagni.
--->
+La finalità del progetto è duplice: offrire un **accesso concreto e non selettivo alla formazione strumentale** — la lezione individuale, spesso privilegio di chi può sostenere corsi privati, viene portata dentro la scuola pubblica — e costruire attraverso l'orchestra e il coro un'esperienza di **cittadinanza attiva**, in cui ognuno impara che il proprio suono è necessario a quello di tutti.
 
 **Obiettivi specifici:**
-  - Sviluppare la capacità di ascolto attivo e l'invenzione sonora  
-  - Potenziare la coordinazione motoria attraverso l'esperienza musicale  
-  - Favorire l'esplorazione tattile ed uditiva utilizzando diversi materiali  
-  - Promuovere la socializzazione e la condivisione di spazi e tempi in comune  
-  - Stimolare la creatività nella costruzione di oggetti sonori  
+  - Avviare o consolidare la pratica di uno strumento musicale con un percorso individuale personalizzato
+  - Sviluppare le competenze della musica d'insieme: ascolto reciproco, intonazione, senso ritmico, lettura
+  - Sperimentare la voce come strumento collettivo attraverso la pratica corale
+  - Realizzare una performance finale per mini orchestra e coro aperta alla comunità scolastica e al territorio
+  - Favorire la socializzazione, la responsabilità individuale verso il gruppo e l'inclusione di ragazze e ragazzi con background diversi
+  - Vivere la scuola come spazio pubblico di cultura anche in orario extrascolastico
 
 
 ## METODO: RISORSE E MATERIALI
 
-La **dimensione del gioco** costituisce il canale privilegiato per entrare in contatto con i bambini. Il nostro approccio si basa sull'**osservazione delle reazioni** e sul **feedback continuo** che ci permette di adattare ogni lezione alle risposte del gruppo.
+La **pratica musicale condivisa** costituisce il cuore del progetto: si impara uno strumento per suonare con gli altri, e si suona con gli altri per capire meglio se stessi. Il nostro approccio si basa sull'**osservazione** e sul **feedback continuo**, che ci permette di adattare i percorsi individuali e il lavoro d'insieme alle risposte del gruppo. Sul piano metodologico ci riferiamo alle pedagogie musicali attive (Orff-Schulwerk, Dalcroze, Music Learning Theory di Gordon) e all'esperienza delle orchestre giovanili e sociali di ispirazione *El Sistema*, che ha dimostrato come la pratica orchestrale possa essere un potente strumento di inclusione.
 
-Attingendo al pensiero montessoriano, le attività vengono progettate attorno ai *lavori* sonori individuali. In questo stadio, il nostro ruolo consiste nel costruire gli oggetti ed osservarne l’utilizzo.
-Parallelamente progettiamo le pratiche collettive tenendo conto delle esigenze emerse.
+Il percorso si articola su due binari settimanali integrati:
 
-**Materiali forniti durante il corso:**  
-- Strumenti musicali e oggetti comuni per l'esplorazione sonora  
-- Fogli e matite colorate  
+- *Le lezioni individuali di strumento:* ogni partecipante segue una lezione individuale con uno dei maestri, calibrata sul proprio livello di partenza — dall'assoluto principiante a chi già suona. Il repertorio di studio individuale è scelto in funzione del lavoro d'insieme, così che il progresso personale trovi immediatamente senso nel gruppo.
+- *La musica d'insieme:* l'incontro collettivo riunisce tutti i partecipanti in una **mini orchestra** a organico aperto e flessibile, affiancata dal **coro**, a cui possono partecipare anche i ragazzi che non seguono un percorso strumentale. Si lavora per sezioni e a tutti insieme, con arrangiamenti originali scritti su misura dell'organico reale, attingendo a un repertorio che intreccia musica popolare, musica contemporanea e brani proposti dagli stessi ragazzi.
+- *La performance finale:* nell'ultima parte dell'anno il lavoro converge nella preparazione di un concerto per mini orchestra e coro, aperto alla scuola, alle famiglie e al quartiere, pensato come festa e restituzione pubblica del percorso.
 
-**Richieste alle famiglie:**  
-- Calzini antiscivolo  
-- Una merenda semplice e pratica (con una bustina richiudibile)  
-- Una piccola borraccia o una bottliglietta o un bicchiere per l'acqua  
+**Spazi richiesti alla scuola (in orario extrascolastico):**
+- Un'aula per le lezioni individuali di strumento
+- Un ambiente ampio (aula magna, palestra o aula di musica) per la musica d'insieme e la performance finale
 
-La filosofia del progetto prevede l'utilizzo creativo di materiali semplici e accessibili, trasformando l'ambiente e gli oggetti in opportunità di scoperta musicale. Non sono previsti supporti tecnologici o allestimenti per la diffusione di musica preregistrata, privilegiando le dimensioni educative della manualità e della partecipazione.
+**Materiali e risorse forniti da MEduLab:**
+- Un parco strumenti di base per chi non dispone di uno strumento proprio
+- Arrangiamenti, partiture e materiali didattici originali
+- Leggii e piccole percussioni
+
+Gli spazi verranno riconsegnati puliti e in ordine al termine di ogni incontro, nel pieno rispetto delle attività didattiche del giorno successivo e delle condizioni previste dall'avviso pubblico.
 
 
 
 
+## ASPETTI ORGANIZZATIVI
 
----
+Il progetto copre l'intero anno scolastico 2026/2027, indicativamente da ottobre a maggio, con cadenza settimanale in orario pomeridiano extrascolastico. Ogni partecipante è coinvolto in una lezione individuale di strumento di circa 45 minuti e nell'incontro collettivo di musica d'insieme (mini orchestra e coro) di circa un'ora e mezza. La fascia d'età di riferimento è 11-14 anni (scuola secondaria di primo grado); l'accesso non richiede alcuna competenza musicale pregressa.
 
-La programmazione dettagliata, i costi e le modalità organizzative verranno concordati direttamente con la scuola in base alle vostre specifiche esigenze e disponibilità.
+Giorni, orari, calendario dettagliato ed eventuali quote di partecipazione verranno concordati con la scuola e con il Municipio in base alle disponibilità degli spazi e alle condizioni previste dall'avviso pubblico. I maestri garantiscono la custodia dei ragazzi per tutta la durata delle attività e la riconsegna degli ambienti in ordine al termine di ogni incontro.
 
 
 

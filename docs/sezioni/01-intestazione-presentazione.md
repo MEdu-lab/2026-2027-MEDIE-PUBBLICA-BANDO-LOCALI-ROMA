@@ -1,10 +1,9 @@
-Per il quarto anno consecutivo vi proponiamo il laboratorio di musica d'insieme per l'infanzia, un corso extracurriculare pomeridiano aperto alle bambine e ai bambini che frequentano la {{ progetto.sottotitolo }}. Ogni anno il laboratorio è stato guidato da musicisti formati nella pratica della musica contemporanea, elettroacustica e popolare, che hanno condiviso con i bambini un'atmosfera leggera ma densa di attività.
-Nella progettazione di esperienze di apprendimento significative cerchiamo l'innesco della scintilla dell'interesse dei bambini e puntiamo a realizzare alcune istanze della musica di ricerca del XX e XXI secolo su cui lavoriamo quotidianamente, in collaborazione con alcuni importanti Conservatori italiani.
+In risposta all'{{ progetto.bando }}, MEduLab propone di aprire, nei locali di una scuola pubblica del territorio, uno spazio pomeridiano dedicato alla pratica musicale per le ragazze e i ragazzi della scuola secondaria di primo grado. Il progetto intreccia due percorsi complementari: le **lezioni individuali di strumento**, in cui ciascuno costruisce il proprio rapporto con lo strumento secondo i propri tempi, e la **musica d'insieme**, in cui le competenze individuali confluiscono in una **mini orchestra con coro** che lavora durante tutto l'anno alla realizzazione di una **performance finale** aperta alla scuola, alle famiglie e al quartiere.
+Il gruppo di lavoro è formato da musicisti attivi nella pratica della musica contemporanea, elettroacustica e popolare, con un'esperienza pluriennale di laboratori musicali nelle scuole pubbliche romane dell'infanzia e primarie. Con questa proposta vogliamo dare continuità a quel percorso nella fascia d'età successiva, restituendo alla scuola — anche fuori dall'orario delle lezioni — il suo ruolo di presidio culturale e sociale del territorio.
 
 \vspace{.7cm}
 
->*il ritmo si può solo liberare, sprigionare. Ritmo non è un'entità astratta, ritmo è la vita stessa. Ritmo agisce e provoca, è la forza che unisce linguaggio, musica e movimento.* (Carl Orff)
-
+>*L'orchestra e il coro sono molto più che strutture artistiche: sono esempi e scuole di vita sociale.* (José Antonio Abreu)
 
 <!-- **Maestri:** 
 {% for maestro in maestri %}

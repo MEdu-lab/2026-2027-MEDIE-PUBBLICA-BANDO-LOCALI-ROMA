@@ -1,16 +1,13 @@
 ## CONTINUITÀ, FINALITÀ E OBIETTIVI
 
-Il corso dell'anno precedente ha evidenziato risultati significativi riguardo il coinvolgimento dei bambini nella costruzione di esperienze musicali collettive. La frequenza media per ogni incontro è stata di {{ corso.partecipanti_anno_precedente }} partecipanti. Il riscontro per noi più prezioso è arrivato dalle famiglie, che ci hanno riportato come i bambini hanno riproposto spontaneamente a casa le attività svolte: esplorare le sonorità dell' ambiente circostante, vocalizzare i suoni delle percussioni e trasformare oggetti quotidiani in strumenti musicali ad esempio sono chiari indicatori dell'interiorizzazione dell'esperienza vissuta.
+Nei nostri laboratori nelle scuole dell'infanzia e primarie abbiamo osservato come l'esperienza musicale condivisa generi legami, attenzione reciproca e senso di appartenenza. La scuola secondaria di primo grado è il passaggio in cui queste conquiste rischiano di disperdersi: è l'età in cui molti ragazzi si allontanano dalle attività collettive e in cui, al tempo stesso, il desiderio di esprimersi e di essere riconosciuti dal gruppo è più forte. Il progetto si fonda sul principio che il valore dell'esperienza musicale non si esaurisce nel risultato del concerto, ma si manifesta nel **{{ metodologia.focus_principale }}** vissuto: la performance finale non è un esame, bensì il momento in cui il gruppo restituisce alla propria comunità il percorso fatto insieme.
 
-Quest'anno intendiamo consolidare l'approccio intrapreso, personalizzando il metodo progettato per adattarlo alle specificità di ogni bambino, concentrandosi sulle diverse modalità di apprendimento e supportando chi incontra particolari sfide nello svolgimento delle attività musicali.     
-
-<!--- meglio dirlo a voce durante la riunione
-Il progetto si fonda sul principio che l'apprendimento musicale nell'infanzia non produce necessariamente un risultato tangibile nel "saggio di fine anno", ma manifesta il suo valore nel **{{ metodologia.focus_principale }}** vissuto, che si concretizza nella coltivazione della capacità di ognuno di **inventare e ri-costruire mondi sonori** attraverso il gioco e la relazione con i maestri e i compagni.
--->
+La finalità del progetto è duplice: offrire un **accesso concreto e non selettivo alla formazione strumentale** — la lezione individuale, spesso privilegio di chi può sostenere corsi privati, viene portata dentro la scuola pubblica — e costruire attraverso l'orchestra e il coro un'esperienza di **cittadinanza attiva**, in cui ognuno impara che il proprio suono è necessario a quello di tutti.
 
 **Obiettivi specifici:**
-  - Sviluppare la capacità di ascolto attivo e l'invenzione sonora  
-  - Potenziare la coordinazione motoria attraverso l'esperienza musicale  
-  - Favorire l'esplorazione tattile ed uditiva utilizzando diversi materiali  
-  - Promuovere la socializzazione e la condivisione di spazi e tempi in comune  
-  - Stimolare la creatività nella costruzione di oggetti sonori  
+  - Avviare o consolidare la pratica di uno strumento musicale con un percorso individuale personalizzato
+  - Sviluppare le competenze della musica d'insieme: ascolto reciproco, intonazione, senso ritmico, lettura
+  - Sperimentare la voce come strumento collettivo attraverso la pratica corale
+  - Realizzare una performance finale per mini orchestra e coro aperta alla comunità scolastica e al territorio
+  - Favorire la socializzazione, la responsabilità individuale verso il gruppo e l'inclusione di ragazze e ragazzi con background diversi
+  - Vivere la scuola come spazio pubblico di cultura anche in orario extrascolastico

@@ -1,11 +1,11 @@
 # Informazioni generali progetto
 progetto:
-  titolo: "Piccoli esploratori sonori"
-  gruppo: "A cura di MEduLab"
-  sottotitolo: "Proposta di laboratorio extracurriculare per la Scuola dell'Infanzia Salvatore Quasimodo"
-  scuola: "Scuola dell'Infanzia Salvatore Quasimodo"
-  anno_scolastico: "2025/2026"
+  titolo: "Fare Orchestra"
+  gruppo: "MEduLab"
+  sottotitolo: "Lezioni di strumento e musica d'insieme per la scuola secondaria di primo grado"
+  anno_scolastico: "2026/2027"
   tipo_scuola: "pubblica"
+  bando: "Avviso pubblico di Roma Capitale per l'utilizzo dei locali scolastici in orario extrascolastico"
 # Informazioni sui maestri
 maestri:
   - nome: "Pietro Barale"
@@ -20,34 +20,22 @@ maestri:
 
 # Dettagli del corso
 corso:
-  tipologia: ""
-  fascia_eta: ""
-  durata_incontro: ""
-  frequenza: ""
-  partecipanti_anno_precedente: "8-12"
-  periodo: ""
+  tipologia: "lezioni individuali di strumento e musica d'insieme (mini orchestra e coro)"
+  fascia_eta: "11-14 anni"
+  durata_incontro: "45 minuti (lezione individuale), 1 ora e mezza (musica d'insieme)"
+  frequenza: "settimanale"
+  partecipanti_anno_precedente: ""
+  periodo: "intero anno scolastico"
 
 # Metodologia
 metodologia:
   focus_principale: "processo educativo"
-  approccio: "dimensione del gioco"
+  approccio: "pratica musicale condivisa"
   personalizzazione: true
   feedback_continuo: true
 
-# Programmazione temporale
+# Programmazione temporale (indicativa, da concordare con la scuola e il Municipio)
 programmazione:
   giorno_settimana: "mercoledì"
-  inizio: "2025-10-01"  # Ottobre 2025
-  fine: "2026-05-28"    # Maggio 2026
-  
-# Costi
-costi:
-  quota_bimestrale: 120  # Cifra ogni due mesi
-  modalita_pagamento: "all'inizio di ogni bimestre"
-  mesi_inclusi: ["ottobre", "novembre", "dicembre", "gennaio", "febbraio", "marzo", "aprile", "maggio"]
-  nota_giugno: "Il mese di giugno si decide per tempo in base alle richieste di partecipazione"  
-# Vacanze (da escludere)
-vacanze:
-  - nome: "Vacanze di Natale"
-    inizio: "2025-12-23"
-    fine: "2026-01-06"
+  inizio: "2026-10-01"  # Ottobre 2026
+  fine: "2027-05-27"    # Maggio 2027

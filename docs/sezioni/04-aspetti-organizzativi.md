@@ -3,39 +3,12 @@
 ## ASPETTI ORGANIZZATIVI
 
 Il laboratorio si svolge ogni {{ programmazione.giorno_settimana }} dal {{ programmazione_calcolata.primo_incontro }} al {{ programmazione_calcolata.ultimo_incontro }}, per un totale di **{{ programmazione_calcolata.totale_incontri }} incontri** (media di {{ programmazione_calcolata.media_per_mese }} incontri al mese).
-Ogni incontro dura circa un'ora e mezza: i bambini ci vengono affidati direttamente dalle educatrici entro le 16:30 e vengono riconsegnati alle famiglie tra le 17:45 e le 17:55. Gli ultimi minuti fino alle 18 servono agli organizzatori per lasciare ambienti puliti e adatti all'attività scolastica del giorno successivo, quindi si raccomanda puntualità per il ritiro dei bambini.
-
-Ogni incontro si articola nel modo seguente:  
-- 16:30 inizio attività musicale   
-- 17:15 merenda e svago   
-- 17:40 preparazione per l'uscita   
-
-**Incontri mensili:**
-
-|{% for mese in programmazione_calcolata.dettaglio_per_mese %} {{ mese[0] }} |{% endfor %}
-|{% for mese in programmazione_calcolata.dettaglio_per_mese %} :---: |{% endfor %}
-|{% for mese in programmazione_calcolata.dettaglio_per_mese %} **{{ mese[1] }}** |{% endfor %}
-
-La programmazione tiene conto delle pause per le vacanze di Natale.
-
-**Costi:**
-
-- Quota bimestrale: {{ costi.quota_bimestrale }}€ per bambino    
-<!-- - Pagamento: {{ costi.modalita_pagamento }}   -->
-- **Costo totale del corso: {{ costi_calcolati.costo_totale }}€** ({{ costi_calcolati.numero_bimestri }} bimestri)    
-
-<!---
-**Calendario pagamenti:**
-| Periodo | Importo | Scadenza |
-| :--- | ---: | :---: |
-{% for pagamento in costi_calcolati.dettaglio_pagamenti %}| {{ pagamento.periodo | capitalize }} | {{ pagamento.importo }}€ | {{ pagamento.scadenza }} |
-{% endfor %}
--->
-*{{ costi.nota_giugno }}*
 
 {% else %}
 
----
+## ASPETTI ORGANIZZATIVI
 
-La programmazione dettagliata, i costi e le modalità organizzative verranno concordati direttamente con la scuola in base alle vostre specifiche esigenze e disponibilità.
+Il progetto copre l'intero anno scolastico {{ progetto.anno_scolastico }}, indicativamente da ottobre a maggio, con cadenza {{ corso.frequenza }} in orario pomeridiano extrascolastico. Ogni partecipante è coinvolto in una lezione individuale di strumento di circa 45 minuti e nell'incontro collettivo di musica d'insieme (mini orchestra e coro) di circa un'ora e mezza. La fascia d'età di riferimento è {{ corso.fascia_eta }} (scuola secondaria di primo grado); l'accesso non richiede alcuna competenza musicale pregressa.
+
+Giorni, orari, calendario dettagliato ed eventuali quote di partecipazione verranno concordati con la scuola e con il Municipio in base alle disponibilità degli spazi e alle condizioni previste dall'avviso pubblico. I maestri garantiscono la custodia dei ragazzi per tutta la durata delle attività e la riconsegna degli ambienti in ordine al termine di ogni incontro.
 {% endif %}
